@@ -1,0 +1,106 @@
+.dropdown-menu {
+  background-color: white;
+}
+.task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dropdown .btn-secondary {
+  background-color: white;
+  border: none;
+  color: #b197fc;
+}
+
+.dropdown .btn-secondary:active {
+  background-color: white;
+}
+
+.dropdown-toggle::after {
+  display: none;
+}
+
+.task label.checked {
+  text-decoration: line-through;
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.filters span.active {
+  color: #f0edfa;
+}
+
+.filters span.active:hover {
+  transition: all 0.5s;
+}
+
+.filters span {
+  margin-right: 5px;
+  font-size: 15px;
+  column-rule-color: #6241c6;
+  cursor: pointer;
+}
+
+.task .card {
+  background-color: #ede7f6;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  width: 100%;
+  min-height: 60px;
+}
+
+.card {
+  background-color: #c4abe5;
+}
+
+body {
+  background-color: #b6a0d2;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.btn {
+  background-color: #593d6f;
+}
+
+#btnAddNewTask,
+#btnClear,
+.btn-link {
+  color: #ede7f6;
+}
+
+#btnAddNewTask:hover,
+#btnClear:hover,
+.btn-link {
+  background-color: #ede7f6;
+  border-color: #593d6f;
+  color: #593d6f;
+  transition: all 0.5s;
+}
+
+.btn-link {
+  background-color: #593d6f;
+}
+
+.filters span {
+  color: #593d6f;
+  font-weight: bold;
+}
+
+input[type="checkbox"].form-check-input:checked {
+  background-color: #593d6f;
+  border-color: #593d6f;
+}
+
+input[type="checkbox"].form-check-input:checked::after {
+  color: #ffffff;
+}
+
+.card-title {
+  color: #593d6f;
+}
