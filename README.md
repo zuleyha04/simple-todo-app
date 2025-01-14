@@ -35,12 +35,3 @@ Bu projeyi geliştirirken aşağıdaki konularda bilgi ve deneyim kazandım:
   
   ![To-Do App Screenshot](./images/5.png)
 
-
-
-
-
-![To-Do App Screenshot](./"C:\Users\Benas\Desktop\1.png")
-
-
-
-
