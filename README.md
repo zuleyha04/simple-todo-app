@@ -23,16 +23,20 @@ Bu projeyi geliştirirken aşağıdaki konularda bilgi ve deneyim kazandım:
 - **Local Storage** kullanarak kullanıcı verilerini tarayıcıda saklama.
 - **Bootstrap** ile tasarımı yapma.
 
-##Ekran Görüntüleri
+## Ekran Görüntüleri
+
   ![To-Do App Screenshot](./images/1.png)
+  
   ![To-Do App Screenshot](./images/2.png)
+  
   ![To-Do App Screenshot](./images/3.png)
+  
   ![To-Do App Screenshot](./images/4.png)
+  
   ![To-Do App Screenshot](./images/5.png)
 
 
 
-## Ekran Görüntüleri
 
 
 ![To-Do App Screenshot](./"C:\Users\Benas\Desktop\1.png")
